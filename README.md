@@ -1,5 +1,3 @@
-README.md
-
 # DemonHuntHalloween
 
 **DemonHuntHalloween** is a fun Halloween-themed game that can be played with a Wii remote or the mouse.  
