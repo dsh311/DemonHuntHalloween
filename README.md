@@ -77,7 +77,7 @@ You can play DemonHuntHalloween using a **Wii remote** or a **mouse**.
 
 This project uses [WiimoteLib](https://github.com/BrianPeek/WiimoteLib) under the **MIT License**.  
 
-For the full license text, see [`ThirdPartyLicenses.md`](ThirdPartyLicenses.md).
+For the full license text, see [`NOTICE.md`](NOTICE.md).
 
 ---
 
