@@ -1,20 +1,48 @@
 # DemonHuntHalloween
---PAGE IS UNDER CONSTRUCTION--  
 **DemonHuntHalloween** is a fun Halloween-themed "Duck Hunt" style game that can be played with a Wii remote or the mouse.  
-This game works great for Trunk-or-Treat parties because the game lasts 40 seconds or less.   
+This game works great for Trunk-or-Treat parties because the game lasts 40 seconds or less.  
 It was built using **C#** and **WPF**.  
-
-DemonHuntHalloween works best with the Wii remote and is perfect for a trunk-or-treat or Halloween party.
 
 ---
 
 ## Demo
 
-![DemonHuntHalloween Gameplay](Assets/demo_screenshot.png)  
-*Example gameplay screenshot.*
-
-![DemonHuntHalloween GIF](Assets/demo_animation.gif)  
+![Gameplay GIF](./docs/DemonHuntHalloween.gif)  
 *Red dot aiming and shooting at enemies in action.*
+
+![Laughing Dog](./docs/LaughingDog.png)  
+*The skeleton dog laughs when you miss a target.*
+
+---
+
+## Level Characters
+
+### Level 1
+![Level 1 - Jack](./docs/Level1_Jack.png)  
+*Enemy: Jack.*
+
+### Level 2
+![Level 2 - Booger](./docs/Level2_Booger.png)  
+*Enemy: Booger.*
+
+### Level 3
+![Level 3 - Ghost Girl](./docs/Level3_GhostGirl.png)  
+*Enemy: Ghost Girl.*
+
+### Level 4
+![Level 4 - Skeleton](./docs/Level4_Skeleton.png)  
+*Enemy: Skeleton.*
+
+### Level 5
+![Level 5 - Reaper](./docs/Level5_Reaper.png)  
+*Enemy: Reaper.*
+
+---
+
+## Score Screen
+
+![Score Screen](./docs/Score.png)  
+*Score breakdown displayed at the end of the game.*
 
 ---
 
