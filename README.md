@@ -1,11 +1,11 @@
 # DemonHuntHalloween
 **DemonHuntHalloween** is a fun Halloween-themed "Duck Hunt" style game that can be played with a Wii remote or the mouse.  
-This game works great for Trunk-or-Treat parties because the game lasts 40 seconds or less.  
-It was built using **C#** and **WPF**.  
+The game features 5 exciting levels, each lasting at most 10 seconds, for a total playtime of no more than 50 seconds—perfect for Trunk-or-Treat parties.  
+It was built using **C#** and **WPF**.
 
 ---
 
-## Demo
+## Demo at Trunk-or-Treat Party
 
 ![Gameplay GIF](./docs/DemonHuntHalloween.gif)  
 *Red dot aiming and shooting at enemies in action.*
